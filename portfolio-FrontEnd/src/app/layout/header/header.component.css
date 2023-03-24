@@ -1,0 +1,29 @@
+.nav_alta{
+    background-color: #52272c;
+      
+}
+
+.container-fluid{ 
+    width: 80%;
+    margin: 0 auto;
+   
+}
+
+.btn{
+    background-color: #362222;
+    color: #FFEDED;
+}
+
+#sticky{
+        position: sticky;
+        top: 0;
+        background-color: #802731;
+        font: 50%;
+}
+
+.nav-link{
+    color: #FFEDED;
+    font-size: medium;
+    font-weight: 100%;
+    width: auto;
+}
