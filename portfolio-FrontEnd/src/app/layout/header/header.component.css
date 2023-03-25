@@ -4,9 +4,8 @@
 }
 
 .container-fluid{ 
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
-   
 }
 
 .btn{
@@ -26,4 +25,20 @@
     font-size: medium;
     font-weight: 100%;
     width: auto;
+}
+
+.portada{
+    text-align: center;
+    width: 100%;
+    position: relative;
+   
+    
+}
+
+.yo{
+    height: 150px;
+    border-radius:150px;
+    width: 150px;
+    top: -70px;
+    position: relative;
 }

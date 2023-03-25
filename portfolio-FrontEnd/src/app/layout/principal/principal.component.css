@@ -1,27 +1,14 @@
-.container-fluid{
+.container-fluid{ 
     width: 100%;
-    height: 100%;
-    background:rgb(128, 128, 128);
-    position: fixed;
-    justify-content: center;
-    align-items: center;
-    color:white;
-    font-weight: 700;
-    font-size: 30px;
+    margin: 0 auto;
+    float: left;
 }
 
-.yo{
-    font-family: Arial;
-    line-height: 50px;
-    text-align: center;
-    vertical-align: middle;
-    margin-top: 10%;
+.body{
+    width: 800px;
+    float: left;
+    padding: 40px;
+    background-color: #CDF0EA;
+    border-radius: 30px;
 }
 
-.texto{
-    line-height: 50px;
-    text-align: center;
-    vertical-align: middle;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 200;
-}

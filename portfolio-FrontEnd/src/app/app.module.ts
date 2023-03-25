@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { PortfolioComponent } from './layout/portfolio/portfolio.component';
 import { HeaderComponent } from './layout/header/header.component';
 import { PrincipalComponent } from './layout/principal/principal.component';
+import { FooterComponent } from './layout/footer/footer.component';
+import { AsideComponent } from './layout/aside/aside.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PortfolioComponent,
     HeaderComponent,
-    PrincipalComponent
+    PrincipalComponent,
+    FooterComponent,
+    AsideComponent
   ],
   imports: [
     BrowserModule,
